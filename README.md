@@ -1,2 +1,2 @@
 # Data-205-Spring-2026-Evening
-Project Repository for Data 205
+This is a repository to document my Project Capstone for Data 205 at Montgomery College
